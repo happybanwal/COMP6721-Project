@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+phase2/saved_models/
+phase2/results/
